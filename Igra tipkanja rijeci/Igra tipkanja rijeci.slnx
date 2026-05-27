@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Igra tipkanja rijeci/Igra tipkanja rijeci.vcxproj" />
-</Solution>
